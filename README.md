@@ -7,7 +7,7 @@
 ### 🚀 About Me  
 - 🔭 Currently working on **[BookMyDoc](https://book-my-doctor-two.vercel.app/)**  
 - 🌱 Learning **n8n, Generative AI, and Agentic AI**  
-- 👯 I have collaborated on **[Propdial](https://propdial.in/)**  
+- 👯 I have collaborated on **[Propdial](https://propdial.in/)** and **[PropAgent](https://indiapropagent.com/)** 
 - 👨‍💻 Check out all my projects on [GitHub](https://github.com/hellman53?tab=repositories)  
 - 📝 I write on [Hashnode](https://hashnode.com/@GurjapSingh)  
 - 💬 Ask me about **Next.js, React.js, GSAP, Firebase, C, and Cloud Storage**  
