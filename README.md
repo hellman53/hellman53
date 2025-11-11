@@ -57,7 +57,7 @@
 
 <p align="center">
   <!-- Skillicons-supported tech -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,express,firebase,mongodb,mysql,postgres,java,go,c,cpp,git,github,figma,cloudflare,gcp,npm,postman,vite,prisma,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,js,ts,nodejs,express,firebase,mongodb,mysql,postgres,java,go,c,cpp,git,github,figma,cloudflare,gcp,npm,postman,vite,prisma,docker" />
 </p>
 
 
